@@ -5,7 +5,7 @@ const fs = require('fs');
 const transporter = nodemailer.createTransport(
     sendGridTransport({
         auth:{
-            api_key: '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'
+            api_key: ''
         }
     })
 )
